@@ -1,3 +1,1 @@
-Video 1|https://youtu.be/xxxxx|https://i.ytimg.com/vi/xxxxx/hqdefault.jpg
-Video 2|https://youtu.be/yyyyy|https://i.ytimg.com/vi/yyyyy/hqdefault.jpg
-Video 3|https://youtu.be/zzzzz|https://i.ytimg.com/vi/zzzzz/hqdefault.jpg
+https://youtu.be/EhG8uJxvPTY?si=on4Ek0cngXrtjwnn
